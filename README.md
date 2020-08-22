@@ -10,7 +10,7 @@
 
 Each directory has a requirements.txt describing the minimal dependencies required to run the notebooks in that directory.
 
-## pip
+### pip
 To install these dependencies with pip, you can issue pip3 install -r requirements.txt.
 
 If there is no a requirements.txt file, it means there should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. 
