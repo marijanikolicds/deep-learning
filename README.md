@@ -20,7 +20,7 @@ The code in that case should run with no issues using Python versions 3.*.
 This repository contains files related to Data Scientist Nanodegree Program - Convolutional Neural Networks. The link to the program is [here](https://www.udacity.com/course/data-scientist-nanodegree--nd025).
 
 ## Topics
-This repository containts tutorial notebooks and implementagtions for various deep learning topics.
+This repository containts tutorial notebooks and implementations for various deep learning topics.
 * gradient-descent: Implements the basic functions of the Gradient Descent algorithm to find the boundary in a small dataset.
 * student-admissions-keras: Predicts student admissions with neural networks in Keras.
 
