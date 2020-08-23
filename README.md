@@ -13,6 +13,7 @@ This repository contains files related to Data Scientist Nanodegree Program - Co
 This repository containts tutorial notebooks and implementations for various deep learning topics.
 * gradient-descent: Implements the basic functions of the Gradient Descent algorithm to find the boundary in a small dataset.
 * student-admissions-keras: Predicts student admissions with neural networks in Keras.
+* IMDB-keras: Using Keras to analyze IMDB movie data - predict the sentiment analysis of a review.
 
 ## Installation and Dependencies
 
