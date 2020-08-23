@@ -21,8 +21,8 @@ This repository contains files related to Data Scientist Nanodegree Program - Co
 
 ## Topics
 This repository containts tutorial notebooks and implementagtions for various deep learning topics.
-* Gradient descent: Implements the basic functions of the Gradient Descent algorithm to find the boundary in a small dataset.
-
+* gradient-descent: Implements the basic functions of the Gradient Descent algorithm to find the boundary in a small dataset.
+* student-admissions-keras: Predicts student admissions with neural networks in Keras.
 
 ## Authors and Acknowledgements
 Must give credit to https://github.com/udacity/deep-learning for tutorials and data. 
